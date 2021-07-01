@@ -1,0 +1,5 @@
+<{feature,finder,reader,catalog}.ml>: coverage
+<test.{byte,native}>: coverage
+# <{feature,finder,reader,main}.ml> : thread
+# <prog.{native,byte}> : use_unix, thread
+true: package(ounit2),package(ANSITerminal),package(core),package(yojson), package(str), package(bisect_ppx),package(lwt),package(cohttp-lwt-unix),package(cohttp)

@@ -1,0 +1,179 @@
+{
+  "results": [
+    {
+      "id": 11,
+      "title": "Alice's Adventures in Wonderland",
+      "authors": [
+        {
+          "name": "Carroll, Lewis",
+          "birth_year": 1832,
+          "death_year": 1898
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Alice (Fictitious character from Carroll) -- Juvenile fiction",
+        "Children's stories",
+        "Fantasy fiction",
+        "Imaginary places -- Juvenile fiction"
+      ],
+      "bookshelves": [
+        "Children's Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://www.gutenberg.org/ebooks/11.epub.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/11.rdf",
+        "text/html; charset=utf-8": "https://www.gutenberg.org/files/11/11-h/11-h.htm",
+        "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11.kindle.images",
+        "application/zip": "https://www.gutenberg.org/files/11/11-h.zip",
+        "image/jpeg": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+        "text/plain; charset=utf-8": "https://www.gutenberg.org/files/11/11-0.zip"
+      },
+      "download_count": 27708
+    },
+    {
+      "id": 16,
+      "title": "Peter Pan",
+      "authors": [
+        {
+          "name": "Barrie, J. M. (James Matthew)",
+          "birth_year": 1860,
+          "death_year": 1937
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Fairies -- Fiction",
+        "Fantasy literature",
+        "Never-Never Land (Imaginary place) -- Fiction",
+        "Peter Pan (Fictitious character) -- Fiction",
+        "Pirates -- Fiction"
+      ],
+      "bookshelves": [
+        "Children's Literature",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://www.gutenberg.org/ebooks/16.epub.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/16.rdf",
+        "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16.kindle.images",
+        "text/html; charset=utf-8": "https://www.gutenberg.org/files/16/16-h/16-h.htm",
+        "text/plain; charset=utf-8": "https://www.gutenberg.org/files/16/16-0.txt",
+        "image/jpeg": "https://www.gutenberg.org/cache/epub/16/pg16.cover.small.jpg",
+        "application/zip": "https://www.gutenberg.org/files/16/16-0.zip"
+      },
+      "download_count": 11459
+    },
+    {
+      "id": 23,
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "authors": [
+        {
+          "name": "Douglass, Frederick",
+          "birth_year": 1818,
+          "death_year": 1895
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Abolitionists -- United States -- Biography",
+        "African American abolitionists -- Biography",
+        "Douglass, Frederick, 1818-1895",
+        "Slaves -- United States -- Biography"
+      ],
+      "bookshelves": [
+        "African American Writers",
+        "Slavery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://www.gutenberg.org/ebooks/23.epub.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/23.rdf",
+        "text/html; charset=us-ascii": "https://www.gutenberg.org/files/23/23-h/23-h.htm",
+        "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/23.kindle.images",
+        "application/zip": "https://www.gutenberg.org/files/23/23-0.zip",
+        "image/jpeg": "https://www.gutenberg.org/cache/epub/23/pg23.cover.small.jpg",
+        "text/plain; charset=utf-8": "https://www.gutenberg.org/files/23/23-0.txt"
+      },
+      "download_count": 10757
+    },
+    {
+      "id": 10,
+      "title": "The King James Version of the Bible",
+      "authors": [],
+      "translators": [],
+      "subjects": [
+        "Bible"
+      ],
+      "bookshelves": [
+        "Banned Books List from the American Library Association"
+      ],
+      "languages": [
+        "en"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/plain; charset=utf-8": "https://www.gutenberg.org/files/10/10-0.txt",
+        "image/jpeg": "https://www.gutenberg.org/cache/epub/10/pg10.cover.small.jpg",
+        "application/epub+zip": "https://www.gutenberg.org/ebooks/10.epub.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/10.rdf",
+        "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10.kindle.images",
+        "application/zip": "https://www.gutenberg.org/files/10/10-h.zip",
+        "text/html; charset=utf-8": "https://www.gutenberg.org/files/10/10-h/10-h.htm"
+      },
+      "download_count": 4133
+    },
+    {
+      "id": 12,
+      "title": "Through the Looking-Glass",
+      "authors": [
+        {
+          "name": "Carroll, Lewis",
+          "birth_year": 1832,
+          "death_year": 1898
+        }
+      ],
+      "translators": [],
+      "subjects": [
+        "Alice (Fictitious character from Carroll) -- Juvenile fiction",
+        "Children's stories",
+        "Fantasy fiction",
+        "Imaginary places -- Juvenile fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Children's Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/epub+zip": "https://www.gutenberg.org/ebooks/12.epub.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/12.rdf",
+        "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/12.kindle.images",
+        "image/jpeg": "https://www.gutenberg.org/cache/epub/12/pg12.cover.medium.jpg",
+        "text/plain; charset=utf-8": "https://www.gutenberg.org/files/12/12-0.txt",
+        "application/zip": "https://www.gutenberg.org/files/12/12-h.zip",
+        "text/html; charset=utf-8": "https://www.gutenberg.org/files/12/12-h/12-h.htm"
+      },
+      "download_count": 3954
+    }
+  ]
+}
